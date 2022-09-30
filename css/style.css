@@ -136,7 +136,7 @@ img {
         width: 50%;
     }
     .lessons .col img {
-        height: 100%;
+        width: 100%;
     }
 }
 @media screen and (max-width: 480px) {
