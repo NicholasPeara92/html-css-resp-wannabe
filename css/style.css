@@ -133,7 +133,7 @@ img {
         margin: 0%;
     }
     .col{
-        width: calc(50% - 2rem);
+        width: 50%;
     }
     .lessons .col img {
         height: 100%;
