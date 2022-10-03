@@ -138,13 +138,8 @@ SOLUZIONE RESPONSIVE
     }
 }
 @media screen and (max-width: 480px) {
-    .container{
-        width: 100%;
-        
-    }
     .row{
         flex-wrap: wrap;
-        width: 100%;
     }
     .col{
         padding: 40px;
