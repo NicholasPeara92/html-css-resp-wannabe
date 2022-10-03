@@ -141,14 +141,10 @@ SOLUZIONE RESPONSIVE
     .row{
         flex-wrap: wrap;
     }
-    .col{
-        padding: 40px;
+    .col:not(:last-child) {
+        margin-bottom: 40px;
     }
     .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right{
         width: 100%;
     }
-    .why-us h2{
-        margin: 2.5rem 2.5rem;
-    }
-
 }
