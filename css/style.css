@@ -147,4 +147,16 @@ SOLUZIONE RESPONSIVE
     .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right{
         width: 100%;
     }
+    .why-us {
+        background-color: #222222;
+    }
+    .steps, .why-us {
+        margin: 0;
+    }
+    .lessons, .why-us {
+        padding-bottom: 3rem;
+    }
+    .why-us {
+        padding-top: 3rem;
+    }
 }
