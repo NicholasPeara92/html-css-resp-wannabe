@@ -136,9 +136,6 @@ SOLUZIONE RESPONSIVE
     .container{
         width: 100%;
     }
-    .lessons .col img {
-        width: 100%;
-    }
 }
 @media screen and (max-width: 480px) {
     .container{
