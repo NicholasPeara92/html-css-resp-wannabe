@@ -135,10 +135,6 @@ SOLUZIONE RESPONSIVE
 @media screen and (max-width:768px) {
     .container{
         width: 100%;
-        margin: 0;
-    }
-    .col{
-        width: 50%;
     }
     .lessons .col img {
         width: 100%;
